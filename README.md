@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Vue3**
 
-- 👨‍💻 All of my projects are available at [github.com/cipherDOT](github.com/cipherDOT)
+- 👨‍💻 All of my projects are available at [github.com/cipherDOT](https://github.com/cipherDOT)
 
 - 💬 Ask me about **Python, Django**
 

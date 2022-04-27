@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/cipherDOT](github.com/cipherDOT)
 
-- 💬 Ask me about **django**
+- 💬 Ask me about **Python, Django**
 
 - 📫 How to reach me **r.m.kavinbharathi@gmail.com**
 

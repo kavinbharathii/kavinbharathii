@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 
-- 🔭 I’m currently working on [kreativ.](kreativdemo.netlify.app)
+- 🔭 I’m currently working on [kreativ.](https://kreativdemo.netlify.app/)
 
 - 🌱 I’m currently learning **Vue3**
 

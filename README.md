@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [kreativ.](https://kreativdemo.netlify.app/)
 
-- 🌱 I’m currently learning **Vue3**
+- 🌱 I’m currently learning [**Vue3**](https://vuejs.org/)
 
 - 👨‍💻 All of my projects are available at [github.com/cipherDOT](https://github.com/cipherDOT)
 

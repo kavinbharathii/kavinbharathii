@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Redo(https://github.com/kavinbharathii/redo)<br>🌱 I’m currently learning Rust<br>💬 Ask me about Python
+🔭 I’m currently working on [Redo](https://github.com/kavinbharathii/redo)<br>🌱 I’m currently learning Rust<br>💬 Ask me about Python
 
 
 ## 🌐 Socials:

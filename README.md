@@ -1,8 +1,8 @@
-# 💫 About Me:
+# Hii, I'm Kavin Bharathi 💫:
 🔭 I’m currently working on [Redo](https://github.com/kavinbharathii/redo)<br>🌱 I’m currently learning [Rust](https://www.rust-lang.org/learn)<br>💬 Ask me about [Python](https://www.python.org/)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavin_bharathii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavin-bharathi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kavin_bharathii) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@kavinbharathi) 
 
 # 💻 Tech Stack:
@@ -15,4 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kavinbharathii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

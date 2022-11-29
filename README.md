@@ -1,4 +1,4 @@
-# Hii, I'm Kavin Bharathi 💫:
+# Hii, I'm Kavin Bharathi 💫
 🔭 I’m currently working on [Redo](https://github.com/kavinbharathii/redo)<br>🌱 I’m currently learning [Rust](https://www.rust-lang.org/learn)<br>💬 Ask me about [Python](https://www.python.org/)
 
 

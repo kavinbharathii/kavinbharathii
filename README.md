@@ -1,5 +1,5 @@
 # Hii, I'm Kavin Bharathi 💫
-🔭 I’m currently working on [Redo](https://github.com/kavinbharathii/redo)<br>🌱 I’m currently learning [Rust](https://www.rust-lang.org/learn)<br>💬 Ask me about [Python](https://www.python.org/)
+🔭 I’m currently working on [Kryptos](https://github.com/kavinbharathii/kryptos)<br>🌱 I’m currently learning [Nextjs](https://www.nextjs.org)<br>💬 Ask me about [anything tech(i'm alwz interested)](https://www.python.org/)
 
 
 # 🔗 Socials:
